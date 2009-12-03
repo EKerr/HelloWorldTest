@@ -7,6 +7,7 @@ int main ()
   cout << "I'm a C++ Program \n\n";
   cout << ,"This is the first change to test GIT" << endl;
   cout << ,"This is the second change to test GIT" << endl;
+  cout << ,"This is the fourth change to test GIT" << endl;
   return 0;
 }
 
